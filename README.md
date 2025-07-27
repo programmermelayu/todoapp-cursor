@@ -1,6 +1,6 @@
 # Todo List Application
 
-A full-stack todo list application built with React frontend, FastAPI backend, and PostgreSQL database built 100% using AI Warp and Cursor.
+A full-stack todo list application built with React frontend, FastAPI backend, and PostgreSQL database built 100% using AI tools like Warp and Cursor.
 
 ## Features
 
